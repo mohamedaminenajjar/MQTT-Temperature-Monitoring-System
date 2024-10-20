@@ -11,11 +11,6 @@ This project demonstrates a simple IoT setup where:
 
 ---
 
-### 🎥 Project Demo
-
-
----
-
 ## 🧰 Project Components
 - **ESP32 (Client)**: Reads temperature data from a DHT11 sensor and publishes it to an MQTT topic.
 - **Raspberry Pi (Broker)**: Receives temperature data and sends a response back to the ESP32.
